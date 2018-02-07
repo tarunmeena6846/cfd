@@ -2,67 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/tarun/.android/build-cache/d3cd4da03816de9cfe30fa0a625c3402aa2c2523/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fbcf4fb814571f2193eb40bee08302e33f7a7a5/classes.dex" />
+        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/pre-dexed/debug/classes_2fbcf4fb814571f2193eb40bee08302e33f7a7a5.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/tarun/Desktop/anagram/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cfeddcbb49c53e6bc44d5786329a7edff68c6e9d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/tarun/.android/build-cache/c8453feb91bd694fa29f6e2d50467ce8280d97a9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37df672cebee62f093da525c85b302f8513e2eac/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/tarun/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_1d23e290e664a9f6557e74cb62e52eea5fac1889/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/tarun/.android/build-cache/1a250cf03a4ed049b84819857ec2ebc116284d27/output/jars/libs/internal_impl-22.2.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_e21a2dbc674e6ff1192e3cc5c681a1b1a06120d0/classes.dex" />
+        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_e21a2dbc674e6ff1192e3cc5c681a1b1a06120d0.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/tarun/Desktop/anagram/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="dbc5c801c35c67bf78f3cdccf0de30fdf22f42bf">
-        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_632eb1da5ec594de58701e712885115d3bfdb5b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/tarun/.android/build-cache/1a250cf03a4ed049b84819857ec2ebc116284d27/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2665523fa3bd9efb89690e40a133d2bc74cdeb2a/classes.dex" />
+        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/pre-dexed/debug/classes_2665523fa3bd9efb89690e40a133d2bc74cdeb2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarun/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_1d23e290e664a9f6557e74cb62e52eea5fac1889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/tarun/.android/build-cache/c8453feb91bd694fa29f6e2d50467ce8280d97a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/tarun/Desktop/anagram/app/build/intermediates/pre-dexed/debug/classes_37df672cebee62f093da525c85b302f8513e2eac.jar" />
     </item>
 
 </items>

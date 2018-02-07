@@ -85,16 +85,7 @@ public class AnagramDictionary {
 
     public String pickGoodStarterWord() {
 
-        // Too much complexity
-//        while (true) {
-//            String word = wordList.get((int) (Math.random() * wordList.size()));
-//            ArrayList<String> anagrams = getAnagrams(word);
-//            if (anagrams.size() >= 6) {
-//                return word;
-//            }
-//        }
 
-//        return "skate";
 
         ArrayList<String> good_words = new ArrayList<>();
         good_words.add("arrest");
